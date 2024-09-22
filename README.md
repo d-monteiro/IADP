@@ -15,9 +15,16 @@ The IADP course aims to introduce the basic concepts of data analysis using the 
 
 ## Repository Structure
 
-</details>
 <details>
   <summary><code>quiz_1-4</code> : Contains Python scripts for quiz questions regarding lessons 1 to 4.</summary>
+  <ul>
+    <li><code>question_1.py</code></li>
+    <li><code>question_2.py</code></li>
+  </ul>
+</details>
+
+<details>
+  <summary><code>quiz_5</code> : Contains a Python script for quiz questions regarding lesson 5.</summary>
   <ul>
     <li><code>question_1.py</code></li>
     <li><code>question_2.py</code></li>
