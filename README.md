@@ -30,3 +30,11 @@ The IADP course aims to introduce the basic concepts of data analysis using the 
     <li><code>question_2.py</code></li>
   </ul>
 </details>
+
+<details>
+  <summary><code>quiz_6</code> : Contains a Python script for quiz questions regarding lesson 6.</summary>
+  <ul>
+    <li><code>question_1.py</code></li>
+    <li><code>question_2.py</code></li>
+  </ul>
+</details>
